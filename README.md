@@ -43,8 +43,4 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
 Ensure netflix_titles.csv is in the root directory alongside netflix_titles_dpa_assignment.ipynb.
 Launch Jupyter Notebook and open the file:
 jupyter notebook netflix_titles_dpa_assignment.ipynb
-Repository Structure
 
-├── netflix_titles_dpa_assignment.ipynb   # Main Jupyter Notebook with code, outputs, and charts
-├── netflix_titles.csv                    # Dataset file
-└── README.md                             # Project documentation
