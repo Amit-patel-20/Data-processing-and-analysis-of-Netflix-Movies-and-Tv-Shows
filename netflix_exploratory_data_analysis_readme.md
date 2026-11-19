@@ -49,9 +49,3 @@ An exploratory data analysis (EDA) and feature engineering project on the **Netf
    jupyter notebook netflix_titles_dpa_assignment.ipynb
    ```
 
-## Repository Structure
-```text
-├── netflix_titles_dpa_assignment.ipynb   # Main Jupyter Notebook with code, outputs, and charts
-├── netflix_titles.csv                    # Dataset file
-└── README.md                             # Project documentation
-```
